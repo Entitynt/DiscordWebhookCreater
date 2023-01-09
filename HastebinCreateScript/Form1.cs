@@ -16,7 +16,7 @@ namespace DiscordWebhookCreate
 {
     public partial class Form1 : Form
     {
-        string webhookUrl = "https://discord.com/api/webhooks/1062066687412817960/_A6N0xi2hM0-4K0LnGNahmX4KzYm6H4-kEyRer_bBX9gbQRMu-liqZt9P-OnlB2neeaj";
+        string webhookUrl = "yourUrl";
         public Form1()
         {
             InitializeComponent();
